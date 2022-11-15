@@ -377,3 +377,15 @@
 2022-11-14/14:18:22		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
 2022-11-14/14:18:22		Error occured while running the prediction!! Error:: 'KMeans' object has no attribute '_n_threads'
 2022-11-14/14:18:45		Start of Validation on files for prediction!!
+2022-11-15/10:25:55		Start of Validation on files for prediction!!
+2022-11-15/10:25:44		Start of Validation on files for prediction!!
+2022-11-15/10:25:45		Raw Data Validation Complete!!
+2022-11-15/10:25:45		Starting Data Transforamtion!!
+2022-11-15/10:25:45		DataTransformation Completed!!!
+2022-11-15/10:25:45		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-11-15/10:25:45		Table creation Completed!!
+2022-11-15/10:25:45		Insertion of Data into Table started!!!!
+2022-11-15/10:26:10		Insertion in Table completed!!!
+2022-11-15/10:26:10		Deleting Good Data Folder!!!
+2022-11-15/10:26:10		Good_Data folder deleted!!!
+2022-11-15/10:26:10		Moving bad files to Archive and deleting Bad_Data folder!!!

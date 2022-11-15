@@ -1,14 +1,6 @@
 Problem Statement:
 To build a classification methodology to determine whether a person defaults the credit card payment for the next month. 
 
- What is Architecture Design? 
-Architecture Design (AD) aims to give the internal design of the  actual program code for the Credit Card Defaulters  AD describes the class diagrams with the methods and relation  between classes and program specifications. It describes the modules  so that the programmer can directly code the program from the  document. 
-• Scope 
-Architecture Design (AD) is a component-level design process that  follows a step-by-step refinement process. This process can be used  for designing data structures, required software, architecture, source  
-code, and ultimately, performance algorithms. Overall, the data  organization may be defined during requirement analysis and then  refined during data design work. And the complete workflow. •
- 
-
-
 Dataset Information: 
 ID: ID of each client 
 LIMIT_BAL: Amount of given credit in NT dollars (includes individual  and family/supplementary = credit) 
@@ -16,8 +8,7 @@ SEX: Gender (1=male, 2=female)
 EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others,  5=unknown, 6=unknown) 
 MARRIAGE: Marital status (1=married, 2=single, 3=others) AGE: Age in years 
 
-    PAY_0: Repayment status in September 2005 (-1=pay duly, 1=payment 
-delay for one month, 2=payment delay for two months, … 8=payment  delay for eight months, 9=payment delay for nine months and above) 
+PAY_0: Repayment status in September 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment  delay for eight months, 9=payment delay for nine months and above) 
 PAY_2: Repayment status in August 2005 (scale same as above) PAY_3: Repayment status in July 2005 (scale same as above) 
 PAY_4: Repayment status in June 2005 (scale same as above) 
 PAY_5: Repayment status in May 2005 (scale same as above) 
